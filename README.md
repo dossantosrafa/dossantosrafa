@@ -5,7 +5,14 @@
 🖥️ Designer and programmer assistant at E.A. Mais Comunicações  
 
 
-I am a passionate visual designer and aspiring creative developer, combining clean aesthetics with functional front-end code. Currently, I am studying information systems at a college and working at E.A.Mais Comunicações, where I help brands communicate with purpose and personality. and also work with domains, hosting, websites creation and a lot more, 
+I am a passionate visual designer and aspiring creative developer, combining clean aesthetics with functional front-end code. Currently, I am studying information systems at a college and working at E.A.Mais Comunicações, where I help brands communicate with purpose and personality. and also work with domains, hosting, websites creation and a lot more...
+
+💼 Tools I Work and I Have Knowledge:
+- Adobe Photoshop & Illustrator (layouts, branding, digital art)
+- CorelDRAW (print-ready assets, Logos & vector design)
+- HTML, CSS & Bootstrap (clean, responsive interfaces, layouts)
+- Regular Expressions (regex fan for logic and precision and to protect fields on forms)
+- UI/UX Design (interfaces that *feel* good to use and i always think on user experience, you need fewer clicks on the screen to achieve what you want is crucial)
 <!--
 **dossantosrafa/dossantosrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
