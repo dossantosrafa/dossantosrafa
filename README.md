@@ -13,6 +13,13 @@ I am a passionate visual designer and aspiring creative developer, combining cle
 - HTML, CSS & Bootstrap (clean, responsive interfaces, layouts)
 - Regular Expressions (regex fan for logic and precision and to protect fields on forms)
 - UI/UX Design (interfaces that *feel* good to use and i always think on user experience, you need fewer clicks on the screen to achieve what you want is crucial)
+
+📁 Projects I’m building:
+- Personal branding concepts & social media kits, also includes logos for a personal portfolio to work as a freelancer and jobs to have extra income 
+- UI mockups for apps and landing pages  
+- Visual identity systems for fictional and real brands  
+- Custom posters, artworks & packaging design  
+
 <!--
 **dossantosrafa/dossantosrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
