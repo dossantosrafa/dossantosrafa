@@ -27,6 +27,13 @@ I am a passionate visual designer and aspiring creative developer, combining cle
 - I always think in my knowledge to improve my career and get a future
 - I love to listen music
 
+👤How to see my job and get in contact:
+
+- personal ig: <a href="https://instagram.com/dossantos__rafa" target:"_blank">@dossantos__rafa</a>
+- job ig: <a href="https://instagram.com/designrafasantos" target:"_blank">@designrafasantos</a>
+- linkedin: 
+- behance: 
+
 <!--
 **dossantosrafa/dossantosrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
