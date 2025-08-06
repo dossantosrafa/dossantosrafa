@@ -31,8 +31,8 @@ I am a passionate visual designer and aspiring creative developer, combining cle
 
 - personal ig: [@dossantos__rafa](https://instagram.com/dossantos__rafa)
 - job ig: [@designrafasantos](https://instagram.com/designrafasantos)
-- linkedin: 
-- behance: 
+- linkedin: [Rafael Fontana dos Santos](https://www.linkedin.com/in/rafael-fontana-dos-santos-753396273/)
+- behance: [rafaelfontana](https://www.behance.net/rafaelfontana9)
 
 <!--
 **dossantosrafa/dossantosrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
