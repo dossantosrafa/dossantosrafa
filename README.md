@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-#🎨 Designer & Front-End Explorer | 18 y.o 🇧🇷  
+🎨 Designer & Front-End Explorer | 18 y.o 🇧🇷  
 📍 Based in Brazil | Currently studying Design & Technology  
 🖥️ Designer and programmer assistant at E.A. Mais Comunicações  
+
+
+I am a passionate visual designer and aspiring creative developer, combining clean aesthetics with functional front-end code. Currently, I am studying information systems at a college and working at E.A.Mais Comunicações, where I help brands communicate with purpose and personality. and also work with domains, hosting, websites creation and a lot more, 
 <!--
 **dossantosrafa/dossantosrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
