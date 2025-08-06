@@ -5,7 +5,7 @@
 🖥️ Designer and programmer assistant at E.A. Mais Comunicações  
 
 
-I am a passionate visual designer and aspiring creative developer, combining clean aesthetics with functional front-end code.<br> Currently, I am studying information systems at a college and working at E.A.Mais Comunicações <br>, where I help brands communicate with purpose and personality. and also work with domains, hosting, websites creation and a lot more...
+I am a passionate visual designer and aspiring creative developer, combining clean aesthetics with functional front-end code.<br> Currently, I am studying information systems at a college and working at E.A.Mais Comunicações,<br> where I help brands communicate with purpose and personality. and also work with domains, hosting, websites creation and a lot more...
 
 💼 Tools I Work and I Have Knowledge:
 - Adobe Photoshop & Illustrator (layouts, branding, digital art)
