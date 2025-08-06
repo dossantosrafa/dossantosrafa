@@ -20,6 +20,13 @@ I am a passionate visual designer and aspiring creative developer, combining cle
 - Visual identity systems for fictional and real brands  
 - Custom posters, artworks & packaging design  
 
+⚡ Fun facts:
+- I believe good design speaks before words.
+- I create design systems for fun in Figma, photoshop and other tools.
+- I experiment with creative coding in my spare time.
+- I always think in my knowledge to improve my career and get a future
+- I love to listen music
+
 <!--
 **dossantosrafa/dossantosrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
