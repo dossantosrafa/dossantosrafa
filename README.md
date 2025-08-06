@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+#🎨 Designer & Front-End Explorer | 18 y.o 🇧🇷  
+📍 Based in Brazil | Currently studying Design & Technology  
+🖥️ Designer and programmer assistant at E.A. Mais Comunicações  
 <!--
 **dossantosrafa/dossantosrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
