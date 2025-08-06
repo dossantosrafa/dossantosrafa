@@ -29,8 +29,8 @@ I am a passionate visual designer and aspiring creative developer, combining cle
 
 👤How to see my job and get in contact:
 
-- personal ig: <a href="https://instagram.com/dossantos__rafa" target:"_blank">@dossantos__rafa</a>
-- job ig: <a href="https://instagram.com/designrafasantos" target:"_blank">@designrafasantos</a>
+- personal ig: [@dossantos__rafa](https://instagram.com/dossantos__rafa)
+- job ig: [@designrafasantos](https://instagram.com/designrafasantos)
 - linkedin: 
 - behance: 
 
